@@ -10,7 +10,7 @@
 Uma palinha de como ficou:
 
 criando um usuário:
-![image](./src/assets/criar-todo.png)
+![image](./src/assets/criar-usuario.png)
 
 criando um to-do:
 ![image](./src/assets/criar-todo.png)
