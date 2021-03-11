@@ -104,7 +104,7 @@ app.patch('/todos/:id/done', checksExistsUserAccount, checkIfTodoIdExists, (requ
     done: true
   }
 
-    //Substitue os valoresa antigos do todo antes do update
+    //Substitue os valores antigos do todo antes do update
   const todoWithNewValues = user.todos.map(currentTodo => currentTodo.id === todo.id ? updateDone : currentTodo);
   
   user.todos = [...todoWithNewValues];
