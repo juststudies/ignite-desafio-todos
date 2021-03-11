@@ -10,10 +10,10 @@
 Uma palinha de como ficou:
 
 criando um usuário:
-![image](./src/assets/criar-usuario.png)
+![](./src/assets/criar-usuario.PNG)
 
 criando um to-do:
-![image](./src/assets/criar-todo.png)
+![](./src/assets/criar-todo.PNG)
 
 ---
 
